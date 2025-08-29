@@ -61,7 +61,7 @@ supply-chain-kpi-analytics/
 ---
 
 ## 🖥️ Dashboard Preview
-![Dashboard Preview](dashboards/screenshots/dashboard_preview.png)
+![Dashboard Preview](dashboards/dashboard_preview.png)
 
 ---
 
