@@ -46,7 +46,7 @@ for i in range(1, NUM_ORDERS+1):
         "Status": "Delivered" if actual_date <= datetime.now() else "Pending"
     })
 
-# ----------------------------
+
 # Save to CSV
 # ----------------------------
 df = pd.DataFrame(orders)
